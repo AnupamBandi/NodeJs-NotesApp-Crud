@@ -1,4 +1,4 @@
-# Notes-NodeJs-CRUD-MongoDB
+# NodeJs-NotesAPP-CRUD
 
 ## Udates
 [x] Fixed Mongoose Notes Query Issue 7.0.0
